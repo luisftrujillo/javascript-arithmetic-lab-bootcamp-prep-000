@@ -19,9 +19,6 @@ function dec(n){
 }
 
 
-function makeInt(n, 10) {
-  return parseInt(n)
-}
 
 function divide(a,b){
   return a/b
