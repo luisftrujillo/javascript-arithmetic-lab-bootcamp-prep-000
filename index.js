@@ -18,8 +18,8 @@ function dec(n){
   return --n
 }
 
-function makeInt('0', 10) {
-  return parseInt(n)
+function makeInt(n, 10) {
+  return parseInt(0)
 }
 
 function divide(a,b){
